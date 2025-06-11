@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/geovannymp/QR-code-component---Geovanny)
-- Live Site URL: [Add live site URL here](https://geovannymp.github.io/QR-code-component---Geovanny/)
+- Solution URL: [https://github.com/geovannymp/QR-code-component---Geovanny](https://github.com/geovannymp/QR-code-component---Geovanny)
+- Live Site URL: [https://geovannymp.github.io/QR-code-component---Geovanny/](https://geovannymp.github.io/QR-code-component---Geovanny/)
 
 ## Author
 
